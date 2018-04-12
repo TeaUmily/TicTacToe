@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP LV7 analiza", "OOP LV7 analiza\OOP LV7 analiza.csproj", "{918B6DE5-4F7B-4DB5-8ED3-A1E5046AFAEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{918B6DE5-4F7B-4DB5-8ED3-A1E5046AFAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918B6DE5-4F7B-4DB5-8ED3-A1E5046AFAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918B6DE5-4F7B-4DB5-8ED3-A1E5046AFAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918B6DE5-4F7B-4DB5-8ED3-A1E5046AFAEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
